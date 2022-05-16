@@ -1,0 +1,18 @@
+We transact business globally in multiple currencies. International revenues, as well as costs and expenses
+denominated in foreign currencies, expose us to the risk of fluctuations in foreign currency exchange rates against the
+U.S. dollar. Principal currencies hedged included the Australian dollar, British pound, Canadian dollar, Euro, and
+Japanese yen. For the purpose of analyzing foreign currency exchange risk, we considered the historical trends in
+Table of Contents Alphabet Inc.
+42
+foreign currency exchange rates and determined that it was reasonably possible that adverse changes in exchange
+rates of 10% could be experienced in the near term.
+We use foreign exchange forward contracts to offset the foreign exchange risk on assets and liabilities
+denominated in currencies other than the functional currency of the subsidiary. These forward contracts reduce, but do
+not entirely eliminate, the effect of foreign currency exchange rate movements on our assets and liabilities. The foreign
+currency gains and losses on these assets and liabilities are recorded in other income (expense), net, which are offset
+by the gains and losses on the forward contracts.
+If an adverse 10% foreign currency exchange rate change was applied to total monetary assets, liabilities, and
+commitments denominated in currencies other than the functional currencies at the balance sheet date, it would have
+resulted in an adverse effect on income before income taxes of approximately $497 million and $285 million as of
+December 31, 2020 and 2021, respectively, after consideration of the effect of foreign exchange contracts in place for
+the years ended December 31, 2020 and 2021.
